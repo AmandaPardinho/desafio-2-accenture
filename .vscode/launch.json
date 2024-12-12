@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBeanLifecycleApplication<spring-bean-life-cycle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "acc.br.bean.life.cycle.SpringBeanLifecycleApplication",
+            "projectName": "spring-bean-life-cycle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
